@@ -13,19 +13,10 @@ sidebar:
 
     # Sidebar links
     email: kara.lynch@manchester.ac.uk
-    #phone: 012 345 6789
-    #citizenship:
     website: karalynch.me #do not add http://
     linkedin: kara-marie-lynch
-    #xing: alandoe
     github: karamarielynch
     timezone: London
-    #telegram: # add your nickname without '@' sign
-    #gitlab:
-    #bitbucket:
-    #twitter: '@webjeda'
-    #stack-overflow: # Number/Username, e.g. 123456/alandoe
-    #codewars:
     #goodreads: # Number-Username, e.g. 123456-alandoe
     #pdf: http://www.africau.edu/images/default/sample.pdf
     googlescholar: U77F2ksAAAAJ
@@ -120,72 +111,33 @@ publications:
         authors: K. T. Flanagan, K. M. Lynch, J. Billowes, M. L. Bissell, I. Budinčević, T. E. Cocolios, R. P. de Groote, S. De Schepper, V. N. Fedosseev, S. Franchoo, R. F. Garcia Ruiz, H. Heylen, B. A. Marsh, G. Neyens, T. J. Procter, R. E. Rossel, S. Rothe, I. Strashnov, H. H. Stroke, K. D. A. Wendt.
         conference: "Physical Review Letters, 111 212501 (2013)"
 
-experiences:
-    title: Experiences
-    info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
 projects:
     title: Prizes and Awards
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#    intro: >
+#      You can list your side projects or open source libraries in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-#
-#      - title: DevStudio
-#        link: "#"
-#        tagline: "A responsive website template designed to help web developers/designers market their services."
-#
-#      - title: Tempo
-#        link: "#"
-#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-#
-#      - title: Atom
-#        link: "#"
-#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-#
-#      - title: Delta
-#        link: "#"
-#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: IUPAP Young Scientist Prize in Nuclear Physics (2016)
+        link: "https://iupap.org/who-we-are/internal-organization/commissions/c12-commission-on-nuclear-physics/c12-news/#kara"
+        tagline: "International Union of Pure and Applied Physics"
+        
+      - title: Best Young Persons Presentation (2015)
+        #link: "https://iupap.org/who-we-are/internal-organization/commissions/c12-commission-on-nuclear-physics/c12-news/#kara"
+        tagline: "ISOLDE Workshop Committee, CERN, Switzerland"
+
+      - title: GENCO Award (2015)
+        link: "https://www.gsi.de/en/work/forschung/nustarenna/genco/genco_awards/2015"
+        tagline: "GSI Exotic Nuclei Community, Germany"
+
+      - title: Publication of Ph.D. thesis by Springer (2014)
+        link: "https://link.springer.com/book/10.1007/978-3-319-07112-1"
+        tagline: "Publication of thesis in 'Springer Theses: Recognising Outstanding PhD Research' book series"
+
+      - title: IOP Nuclear Physics Group Early Career Award (2013)
+        link: "https://www.iop.org/physics-community/special-interest-groups/nuclear-physics-group/early-career-researcher-prize"
+        tagline: "IOP Nuclear Physics Group, UK"
+
 
 #skills:
 #    title: Skills &amp; Proficiency
