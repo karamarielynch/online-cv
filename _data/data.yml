@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Dr Kara M Lynch
+    name: Kara M. Lynch
     tagline: Postdoctoral Research Associate  ---- Nuclear Physics Group ---- The Univeristy of Manchester
     avatar: pic.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -88,6 +88,38 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
+
+publications:
+    title: Publications
+    intro: |
+      Some of my favourite publications:
+    papers:
+
+      - title: Measurement and microscopic description of odd–even staggering of charge radii of exotic copper isotopes
+        link: "https://doi.org/10.1038/s41567-020-0868-y"
+        authors: R. P. de Groote, J. Billowes, C. L. Binnersley, M. L. Bissell, T. E. Cocolios, T. Day Goodacre, G. J. Farooq-Smith, D. V. Fedorov, K. T. Flanagan, S. Franchoo, R. F. Garcia Ruiz, W. Gins, J. D. Holt, Á. Koszorús, K. M. Lynch, T. Miyagi, W. Nazarewicz, G. Neyens, P.-G. Reinhard, S. Rothe, H. H. Stroke, A. R. Vernon, K. D. A. Wendt, S. G. Wilkins, Z. Y. Xu, X. F. Yang.
+        conference: Nature Physics, 16 620-624 (2020)
+        
+      - title: Laser-spectroscopy studies of the nuclear structure of neutron-rich radium
+        link: "https://doi.org/10.1103/PhysRevC.97.024309"
+        authors: K. M. Lynch, S. G. Wilkins, J. Billowes, C. L. Binnersley, M. L. Bissell, K. Chrysalidis, T. E. Cocolios, T. Day Goodacre, R. P. de Groote, G. J. Farooq-Smith, D. V. Fedorov, V. N. Fedosseev, K. T. Flanagan, S. Franchoo, R. F. Garcia Ruiz, W. Gins, R. Heinke, Á. Koszorús, B. A. Marsh, P. L. Molkanov, P. Naubereit, G. Neyens, C. M. Ricketts, S. Rothe, C. Seiffert, M. D. Seliverstov, H. H. Stroke, D. Studer, A. R. Vernon, K. D. A. Wendt, X. F. Yang.
+        conference: Physical Review C, 97 024309 (2018)
+        
+      - title: Combined high-resolution laser spectroscopy and nuclear decay spectroscopy for the study of the low-lying states in 206Fr, 202At, and 198Bi
+        link: "https://doi.org/10.1103/PhysRevC.93.014319"
+        authors: K. M. Lynch, T. E. Cocolios, J. Billowes, M. L. Bissell, I. Budinčević, T. Day Goodacre, R. P. de Groote, G. J. Farooq-Smith, V. N. Fedosseev, K. T. Flanagan, S. Franchoo, R. F. Garcia Ruiz, H. Heylen, R. Li, B. A. Marsh, G. Neyens, R. E. Rossel, S. Rothe, H. H. Stroke, K. D. A. Wendt, S. G. Wilkins, X. Yang. 
+        conference: Physical Review C, 93 014319 (2016)
+
+      - title: "Decay-Assisted Laser Spectroscopy of Neutron-Deficient Francium"
+        link: "https://doi.org/10.1103/PhysRevX.4.011055"
+        authors: K. M. Lynch, J. Billowes, M. L. Bissell, I. Budinčević, T. E. Cocolios, R. P. De Groote, S. De Schepper, V. N. Fedosseev, K. T. Flanagan, S. Franchoo, R. F. Garcia Ruiz, H. Heylen, B. A. Marsh, G. Neyens, T. J. Procter, R. E. Rossel, S. Rothe, I. Strashnov, H. H. Stroke, K. D. A. Wendt. 
+        conference: "Physical Review X, 4 (1) 011055 (2014)"
+
+      - title: Collinear Resonance Ionization Spectroscopy of Neutron-Deficient Francium Isotopes	
+        link: "https://doi.org/10.1103/PhysRevLett.111.212501"
+        authors: K. T. Flanagan, K. M. Lynch, J. Billowes, M. L. Bissell, I. Budinčević, T. E. Cocolios, R. P. de Groote, S. De Schepper, V. N. Fedosseev, S. Franchoo, R. F. Garcia Ruiz, H. Heylen, B. A. Marsh, G. Neyens, T. J. Procter, R. E. Rossel, S. Rothe, I. Strashnov, H. H. Stroke, K. D. A. Wendt.
+        conference: "Physical Review Letters, 111 212501 (2013)"
+
 experiences:
     title: Experiences
     info:
@@ -128,16 +160,16 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
-#projects:
-#    title: Projects
-#    intro: >
-#      You can list your side projects or open source libraries in this
-#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#    assignments:
-#      - title: Velocity
-#        link: "#hook"
-#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+projects:
+    title: Prizes and Awards
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 #
 #      - title: DevStudio
 #        link: "#"
@@ -154,37 +186,6 @@ experiences:
 #      - title: Delta
 #        link: "#"
 #        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      Some of my favourite publications:
-    papers:
-
-      - title: Measurement and microscopic description of odd–even staggering of charge radii of exotic copper isotopes
-        link: "https://doi.org/10.1038/s41567-020-0868-y"
-        authors: R. P. de Groote, J. Billowes, C. L. Binnersley, M. L. Bissell, T. E. Cocolios, T. Day Goodacre, G. J. Farooq-Smith, D. V. Fedorov, K. T. Flanagan, S. Franchoo, R. F. Garcia Ruiz, W. Gins, J. D. Holt, Á. Koszorús, K. M. Lynch, T. Miyagi, W. Nazarewicz, G. Neyens, P.-G. Reinhard, S. Rothe, H. H. Stroke, A. R. Vernon, K. D. A. Wendt, S. G. Wilkins, Z. Y. Xu, X. F. Yang.
-        conference: Nature Physics, 16 620-624 (2020)
-        
-      - title: Laser-spectroscopy studies of the nuclear structure of neutron-rich radium
-        link: "https://doi.org/10.1103/PhysRevC.97.024309"
-        authors: K. M. Lynch, S. G. Wilkins, J. Billowes, C. L. Binnersley, M. L. Bissell, K. Chrysalidis, T. E. Cocolios, T. Day Goodacre, R. P. de Groote, G. J. Farooq-Smith, D. V. Fedorov, V. N. Fedosseev, K. T. Flanagan, S. Franchoo, R. F. Garcia Ruiz, W. Gins, R. Heinke, Á. Koszorús, B. A. Marsh, P. L. Molkanov, P. Naubereit, G. Neyens, C. M. Ricketts, S. Rothe, C. Seiffert, M. D. Seliverstov, H. H. Stroke, D. Studer, A. R. Vernon, K. D. A. Wendt, X. F. Yang.
-        conference: Physical Review C, 97 024309 (2018)
-        
-      - title: Combined high-resolution laser spectroscopy and nuclear decay spectroscopy for the study of the low-lying states in 206Fr, 202At, and 198Bi
-        link: "https://doi.org/10.1103/PhysRevC.93.014319"
-        authors: K. M. Lynch, T. E. Cocolios, J. Billowes, M. L. Bissell, I. Budinčević, T. Day Goodacre, R. P. de Groote, G. J. Farooq-Smith, V. N. Fedosseev, K. T. Flanagan, S. Franchoo, R. F. Garcia Ruiz, H. Heylen, R. Li, B. A. Marsh, G. Neyens, R. E. Rossel, S. Rothe, H. H. Stroke, K. D. A. Wendt, S. G. Wilkins, X. Yang. 
-        conference: Physical Review C, 93 014319 (2016)
-
-      - title: "Decay-Assisted Laser Spectroscopy of Neutron-Deficient Francium"
-        link: "https://doi.org/10.1103/PhysRevX.4.011055"
-        authors: K. M. Lynch, J. Billowes, M. L. Bissell, I. Budinčević, T. E. Cocolios, R. P. De Groote, S. De Schepper, V. N. Fedosseev, K. T. Flanagan, S. Franchoo, R. F. Garcia Ruiz, H. Heylen, B. A. Marsh, G. Neyens, T. J. Procter, R. E. Rossel, S. Rothe, I. Strashnov, H. H. Stroke, K. D. A. Wendt. 
-        conference: "Physical Review X, 4 (1) 011055 (2014)"
-
-      - title: Collinear Resonance Ionization Spectroscopy of Neutron-Deficient Francium Isotopes	
-        link: "https://doi.org/10.1103/PhysRevLett.111.212501"
-        authors: K. T. Flanagan, K. M. Lynch, J. Billowes, M. L. Bissell, I. Budinčević, T. E. Cocolios, R. P. de Groote, S. De Schepper, V. N. Fedosseev, S. Franchoo, R. F. Garcia Ruiz, H. Heylen, B. A. Marsh, G. Neyens, T. J. Procter, R. E. Rossel, S. Rothe, I. Strashnov, H. H. Stroke, K. D. A. Wendt.
-        conference: "Physical Review Letters, 111 212501 (2013)"
 
 #skills:
 #    title: Skills &amp; Proficiency
