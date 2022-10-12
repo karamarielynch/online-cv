@@ -4,11 +4,11 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False #True # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Kara M. Lynch
-    tagline: Postdoctoral Research Associate <br> Nuclear Physics Group <br> The Univeristy of Manchester
+    tagline: Postdoctoral Research Associate ---- Nuclear Physics Group ---- The University of Manchester
     avatar: pic.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -82,7 +82,10 @@ education:
 
 publications:
     title: Publications
+    intro: |
+      Some of my favourite publications:
     papers:
+
       - title: Measurement and microscopic description of odd–even staggering of charge radii of exotic copper isotopes
         link: "https://doi.org/10.1038/s41567-020-0868-y"
         authors: R. P. de Groote, J. Billowes, C. L. Binnersley, M. L. Bissell, T. E. Cocolios, T. Day Goodacre, G. J. Farooq-Smith, D. V. Fedorov, K. T. Flanagan, S. Franchoo, R. F. Garcia Ruiz, W. Gins, J. D. Holt, Á. Koszorús, K. M. Lynch, T. Miyagi, W. Nazarewicz, G. Neyens, P.-G. Reinhard, S. Rothe, H. H. Stroke, A. R. Vernon, K. D. A. Wendt, S. G. Wilkins, Z. Y. Xu, X. F. Yang.
@@ -110,6 +113,10 @@ publications:
 
 projects:
     title: Prizes and Awards
+#    intro: >
+#      You can list your side projects or open source libraries in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: IUPAP Young Scientist Prize in Nuclear Physics (2016)
         link: "https://iupap.org/who-we-are/internal-organization/commissions/c12-commission-on-nuclear-physics/c12-news/#kara"
