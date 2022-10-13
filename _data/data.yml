@@ -81,8 +81,7 @@ education:
             - Bullet point
 publications:
     title: Publications
-    intro: |
-      Some of my favourite publications:
+
     papers:
 
       - title: Measurement and microscopic description of odd–even staggering of charge radii of exotic copper isotopes
@@ -112,10 +111,7 @@ publications:
 
 projects:
     title: Prizes and Awards
-#    intro: >
-#      You can list your side projects or open source libraries in this
-#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
     assignments:
       - title: IUPAP Young Scientist Prize in Nuclear Physics (2016)
         link: "https://iupap.org/who-we-are/internal-organization/commissions/c12-commission-on-nuclear-physics/c12-news/#kara"
@@ -138,27 +134,21 @@ projects:
         tagline: "IOP Nuclear Physics Group, UK"
 
 
-#skills:
-#    title: Skills &amp; Proficiency
-#
-#    toolset:
-#      - name: Python & Django
-#        level: 98%
-#
-#      - name: Javascript & jQuery
-#        level: 98%
-#
-#      - name: Angular
-#        level: 98%
-#
-#      - name: HTML5 & CSS
-#        level: 95%
-#
-#      - name: Ruby on Rails
-#        level: 85%
-#
-#      - name: Sketch & Photoshop
-#        level: 60%
+skills:
+    title: Areas of Interest
+
+    toolset:
+      - name: Nuclear Structure
+        level: 100%
+
+      - name: Laser spectroscopy
+        level: 95%
+
+      - name: Decay spectroscopy
+        level: 95%
+  
+      - name: Radioactive ion beams
+        level: 90%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
