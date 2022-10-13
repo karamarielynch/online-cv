@@ -58,27 +58,15 @@ education:
     title: Education
     info:
       - degree: Ph.D. in Nuclear Physics
-        university: The Univeristy of Manchester
+        university: The Univeristy of Manchester, CERN Doctoral Student
         time: 2010 - 2013
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Thesis: <em>'Laser Assisted Nuclear Decay Spectroscopy: A New Method for Studying Neutron-Deficient Francium'<\em>
+
       - degree: MPhys. in Physics
         university: The Univeristy of York
         time: 2006 - 2010
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+
 publications:
     title: Publications
 
