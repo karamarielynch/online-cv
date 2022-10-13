@@ -21,30 +21,6 @@ sidebar:
     #pdf: http://www.africau.edu/images/default/sample.pdf
     googlescholar: U77F2ksAAAAJ
 
-#    languages:
-#      title: Languages
-#      info:
-#        - idiom: English
-#          level: Native
-#
-#        - idiom: French
-#          level: Professional
-#
-#        - idiom: Spanish
-#          level: Professional
-#
-#    interests:
-#      title: Interests
-#      info:
-#        - item: Climbing
-#          link:
-#
-#        - item: Snowboarding
-#          link:
-#
-#        - item: Cooking
-#          link:
-
 career-profile:
     title: Career Profile
     summary: |
@@ -54,6 +30,7 @@ career-profile:
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
+
 education:
     title: Education
     info:
@@ -61,8 +38,9 @@ education:
         university: The Univeristy of Manchester, CERN Doctoral Student
         time: 2010 - 2013
         details: |
-          Thesis: <em>'Laser Assisted Nuclear Decay Spectroscopy: A New Method for Studying Neutron-Deficient Francium'<\em>
-
+          Thesis: <em><a href="https://cds.cern.ch/record/1606787/">Laser Assisted Nuclear Decay Spectroscopy: A New Method for Studying Neutron-Deficient Francium</a></em>
+          Ph.D. Supervisor: Prof. Kieran T. Flanagan
+          
       - degree: MPhys. in Physics
         university: The Univeristy of York
         time: 2006 - 2010
